@@ -1,0 +1,18 @@
+{
+  "name": "Rudransh Quest",
+  "short_name": "Rudransh Quest",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf2ff",
+  "theme_color": "#18245d",
+  "description": "A parent-managed missions and rewards tracker.",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
